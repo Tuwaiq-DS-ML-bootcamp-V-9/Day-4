@@ -1,7 +1,5 @@
 # Content of Labs Day-4
 
-![Prime Numbers](https://media.geeksforgeeks.org/wp-content/uploads/20240912153108/Prime-Numbers.png)
-
 
 ## List Comprehension in Python
 ![Python List Comprehension](https://techvidvan.com/tutorials/wp-content/uploads/2019/12/Python-list-comprehension.jpg)
@@ -15,3 +13,11 @@
 
 ##  Exception Handling in Python
 ![Python Exception Handling](https://www.learnbyexample.org/wp-content/uploads/python/Python-Exception-try-except-else-finally-Syntax.png)
+
+
+
+## Prime Numbers
+![Prime Numbers](https://media.geeksforgeeks.org/wp-content/uploads/20240912153108/Prime-Numbers.png)
+
+
+### Emtnan Alomireni
